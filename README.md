@@ -13,8 +13,6 @@ En el siguiente enlace encuentras el código para ejecutar el entrenamiento en c
 [FaceEmotion.ipynb](https://github.com/DavidReveloLuna/Face_Emotion/blob/master/FaceEmotion.ipynb)
 
 ## Prueba en tiempo real
-<img src="https://github.com/DavidReveloLuna/Face_Emotion/blob/master/assets/ToGift.gif" width="500">
-
 ### Preparación del entorno
 
 $ conda create -n FaceEmotion
